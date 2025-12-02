@@ -45,26 +45,26 @@ export default function KawaTheBlacksmithPage() {
         </div>
 
         {/* Main Content */}
-        <div className="relative z-40 text-center max-w-6xl mx-auto">
+        <div className="relative z-40 text-left max-w-6xl mx-auto">
           <div
             className={`transition-all duration-2000 ${
               isLoaded ? "opacity-100 translate-y-0" : "opacity-0 translate-y-10"
             }`}
           >
             <h1
-              className="text-xl md:text-3xl font-black text-[#d3d2cf] mb-6 tracking-wider"
+              className="text-xl md:text-3xl font-black text-center text-[#d3d2cf] mb-6 tracking-wider"
               style={{ fontFamily: "var(--font-adlam)" }}
             >
-              THE EMBER CROWN
+              THE EMBER CROWN <br /> <span className="text-sm text-gray-300">(Working Title)</span>
             </h1>
             <div className="w-32 h-1 bg-gradient-to-r from-[#d3d2cf] to-[#d3d2cf]/50 mx-auto mb-6"></div>
             <h2
-              className="text-2xl md:text-3xl font-bold text-[#d3d2cf] mt-10 tracking-wide"
+              className="text-sm md:text-2xl text-center font-bold text-[#d3d2cf] mt-10 tracking-wide"
               style={{ fontFamily: "var(--font-adlam)" }}
             >
-              The Genesis of the Gilgamax Cinematic Universe (GCU)
+              The Genesis of the Gilgamax Cinematic Universe
             </h2>
-            <p className="text-lg md:text-xl text-gray-300 mt-6 max-w-4xl mx-auto leading-relaxed">
+            <p className="text-base sm:text-lg md:text-xl text-gray-300 mt-6 max-w-4xl mx-auto leading-relaxed">
             At the heart of Gilgamax mission is The Ember Crown—a monumental high-fantasy epic action adventure inspired by one of humanity's oldest revolutionary myths.
 This grand film launches a new saga: a mythic universe forged in fire, rebellion, and destiny—drawn from the ancient heart of Mesopotamia and envisioned for a global stage.
 Written by Omar K. Akraye over more than a decade and co-developed with Hayman Homer, The Ember Crown is the cornerstone of the Gilgamax Cinematic Universe (GCU): an interconnected mythos where ancient resonance meets modern cinematic storytelling.
@@ -94,7 +94,7 @@ Written by Omar K. Akraye over more than a decade and co-developed with Hayman H
             >
               Originality
             </h3>
-            <p className="text-xl text-gray-300 leading-relaxed">
+            <p className="text-base sm:text-lg md:text-xl text-gray-300 leading-relaxed">
               Unlike derivative fantasy worlds that recycle medieval Europe, elves, and wizards,
               our story emerges from an authentic revolutionary legend preserved for millennia. It is
               the tale of a mythical hero who rises against tyranny — not with sorcery, but with
@@ -139,13 +139,13 @@ Written by Omar K. Akraye over more than a decade and co-developed with Hayman H
             >
               Global Appeal and Franchise Potential
             </h3>
-            <p className="text-xl text-gray-300 leading-relaxed">
+            <p className="text-base sm:text-lg md:text-xl text-gray-300 leading-relaxed">
               The IP of this saga's universality lies in its themes: freedom, justice, rebellion, destiny.
               These struggles are not bound by geography; they echo in every society worldwide
   .
             </p>
             <div className="text-gray-200">
-              <p className="text-xl mb-3">Moreover, with full ownership of the intellectual property, The Ember Crown holds extraordinary franchise potential:</p>
+              <p className="text-base sm:text-lg md:text-xl mb-3">Moreover, with full ownership of the intellectual property, The Ember Crown holds extraordinary franchise potential:</p>
               <ul className="list-disc list-inside space-y-2 text-lg text-gray-300">
                 <li>Prequels and sequels</li>
                 <li>Prestige television spin-offs</li>
@@ -154,7 +154,7 @@ Written by Omar K. Akraye over more than a decade and co-developed with Hayman H
                 <li>Collectibles, publishing, and merchandise</li>
               </ul>
             </div>
-            <p className="text-xl text-gray-300 leading-relaxed">
+            <p className="text-base sm:text-lg md:text-xl text-gray-300 leading-relaxed">
               In a market saturated with reboots, sequels, and imitations, our story enters as a wholly
               original saga — a narrative both timeless in mythic depth and timely in human
               resonance.
@@ -191,7 +191,7 @@ Written by Omar K. Akraye over more than a decade and co-developed with Hayman H
             >
               Cultural Worldwide Relevance
             </h3>
-            <p className="text-xl text-gray-300 leading-relaxed">
+            <p className="text-base sm:text-lg md:text-xl text-gray-300 leading-relaxed">
             The Ember Crown is not just another fantasy. This is a bridge between East and West,
             ancient and modern—offering a fresh mythos in a market saturated by recycled franchises.
             It is a world of prophecy, vengeance, destiny, and defiance. From the mountains of Mesopotamia to the mythic flames of our hero's forge,

@@ -164,13 +164,13 @@ export default function GilgamaxUniverse() {
       <div className="relative z-20 pt-24 pb-16">
         {/* Hero Section */}
         <div className="text-center mb-16 px-4">
-          <h1 className="text-6xl md:text-4xl font-black text-[#d3d2cf] mb-6 tracking-wider" style={{ fontFamily: 'var(--font-adlam)' }}>
-            GILGAMAX CINEMATIC UNIVERSE (GCU)
+          <h1 className="text-xl md:text-4xl font-black text-[#d3d2cf] mb-6 tracking-wider" style={{ fontFamily: 'var(--font-adlam)' }}>
+            GILGAMAX CINEMATIC UNIVERSE
           </h1>
           {/* <h2 className="text-3xl md:text-5xl font-bold text-blue-400 mb-4 font-screamer">
             CINEMATIC UNIVERSE
           </h2> */}
-          <p className="text-xl text-gray-300 max-w-4xl mt-10 mx-auto leading-relaxed">
+          <p className="text-base sm:text-lg md:text-xl text-left text-[#d3d2cf] max-w-4xl mt-10 mx-auto leading-relaxed">
             Enter a realm where ancient myths collide with modern storytelling. 
             Experience the epic journey through interconnected tales of heroes, 
             legends, and the eternal struggle between light and darkness.
@@ -277,13 +277,13 @@ export default function GilgamaxUniverse() {
         </div> */}
 
 <div className="text-center mt-10 px-4">
-          <h1 className="text-6xl md:text-4xl font-black text-[#d3d2cf] mb-6 tracking-wider" style={{ fontFamily: 'var(--font-adlam)' }}>
+          <h1 className="text-xl md:text-4xl font-black text-[#d3d2cf] mb-6 tracking-wider" style={{ fontFamily: 'var(--font-adlam)' }}>
           OVER A DECADE IN THE MAKING
           </h1>
           {/* <h2 className="text-3xl md:text-5xl font-bold text-blue-400 mb-4 font-screamer">
             CINEMATIC UNIVERSE
           </h2> */}
-          <p className="text-xl text-gray-300 max-w-4xl mt-10 mx-auto leading-relaxed">
+          <p className="text-base sm:text-lg md:text-xl text-left text-gray-300 max-w-4xl mt-10 mx-auto leading-relaxed">
           This project represents more than ten years of disciplined work—creative resolve shaped by research, craft, and long-term commitment. It began with a shared frustration felt by Omar K. Akraye and Hayman Homer at the continued appropriation and distortion of Mesopotamian history: a civilization whose legacy forms part of humanity’s cultural bedrock.
 Over the years, they built a narrative framework designed to honor this ancient world with both fidelity and imagination. What emerged is a concept that preserves the essence of the original legend while employing a refined, contemporary story structure—built to connect with a global audience.
 As the creative architecture took shape, Omar and Hayman’s professional paths converged. Hayman’s career in the United States had already distinguished him as a storyteller with rare conviction and international reach. What began as a chance encounter evolved into a substantive partnership, grounded in a shared reverence for cinema and a deep commitment to the cultural inheritance that shaped them.

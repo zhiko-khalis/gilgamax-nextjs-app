@@ -18,26 +18,6 @@ interface TeamMember {
 
 const teamMembers: TeamMember[] = [
   {
-    id: 'najat',
-    name: 'Najat Abdullah',
-    role: 'Co-Founder & Film Producer',
-    image: '/IMG_2822.JPG',
-    shortBio: 'Najat Abdullah is a distinguished Kurdish-American cultural advisor and film producer whose career bridges public service and cinematic innovation. Over two decades, he has shaped cultural diplomacy as the Director of Culture at the Kurdistan Regional Government (KRG) Representation in Washington, D.C., and presently serves as Senior Cultural Advisor to the Deputy Prime Minister of Kurdistan.',
-    fullBio: 'Najat Abdullah is a distinguished Kurdish-American cultural advisor and film producer whose career bridges public service and cinematic innovation. Over two decades, he has shaped cultural diplomacy as the Director of Culture at the Kurdistan Regional Government (KRG) Representation in Washington, D.C., and presently serves as Senior Cultural Advisor to the Deputy Prime Minister of Kurdistan. At Gilgamax, where he serves as a producer, Najat channels his expertise in international relations, cultural affairs, and strategic vision into the art of storytelling. He has been instrumental in producing works that fuse heritage with contemporary cinematic expression, translating ancient narratives into films that resonate across cultures. With his involvement, Gilgamax is pioneering a new era of bringing the epic myths of Mesopotamia to the forefront of global cinema.',
-    achievements: [
-      'Director of Culture at KRG Representation in Washington, D.C.',
-      'Senior Cultural Advisor to the Deputy Prime Minister of Kurdistan Region',
-      'Over 20 years of experience in cultural diplomacy',
-      'Co-founder of Gilgamax Studios'
-    ],
-    education: 'Extensive background in cultural studies and international relations',
-    notableWorks: [
-      'Cultural diplomacy initiatives bridging Kurdish and American communities',
-      'Strategic development of Gilgamax cinematic universe',
-      'Production of films celebrating Mesopotamian heritage'
-    ]
-  },
-  {
     id: 'hayman',
     name: 'Hayman Homer',
     role: 'Co-Founder & Creative Director',
@@ -59,6 +39,28 @@ const teamMembers: TeamMember[] = [
       'Music video appearances'
     ]
   },
+
+  {
+    id: 'najat',
+    name: 'Najat Abdullah',
+    role: 'Co-Founder & Film Producer',
+    image: '/IMG_2822.JPG',
+    shortBio: 'Najat Abdullah is a distinguished Kurdish-American cultural advisor and film producer whose career bridges public service and cinematic innovation. Over two decades, he has shaped cultural diplomacy as the Director of Culture at the Kurdistan Regional Government (KRG) Representation in Washington, D.C., and presently serves as Senior Cultural Advisor to the Deputy Prime Minister of Kurdistan.',
+    fullBio: 'Najat Abdullah is a distinguished Kurdish-American cultural advisor and film producer whose career bridges public service and cinematic innovation. Over two decades, he has shaped cultural diplomacy as the Director of Culture at the Kurdistan Regional Government (KRG) Representation in Washington, D.C., and presently serves as Senior Cultural Advisor to the Deputy Prime Minister of Kurdistan. At Gilgamax, where he serves as a producer, Najat channels his expertise in international relations, cultural affairs, and strategic vision into the art of storytelling. He has been instrumental in producing works that fuse heritage with contemporary cinematic expression, translating ancient narratives into films that resonate across cultures. With his involvement, Gilgamax is pioneering a new era of bringing the epic myths of Mesopotamia to the forefront of global cinema.',
+    achievements: [
+      'Director of Culture at KRG Representation in Washington, D.C.',
+      'Senior Cultural Advisor to the Deputy Prime Minister of Kurdistan Region',
+      'Over 20 years of experience in cultural diplomacy',
+      'Co-founder of Gilgamax Studios'
+    ],
+    education: 'Extensive background in cultural studies and international relations',
+    notableWorks: [
+      'Cultural diplomacy initiatives bridging Kurdish and American communities',
+      'Strategic development of Gilgamax cinematic universe',
+      'Production of films celebrating Mesopotamian heritage'
+    ]
+  },
+  
   {
     id: 'omer',
     name: 'Omer K. Akraye',

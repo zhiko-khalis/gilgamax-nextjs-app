@@ -48,7 +48,7 @@ export default function About() {
           VISUALIZE THE IMPOSSIBLE
         </h2> */}
        
-        <p className="text-base sm:text-lg md:text-xl text-[#d3d2cf]/65 mt-0 md:mt-0 max-w-7xl leading-relaxed px-2 sm:px-0" style={{ fontFamily: 'var(--font-adlam)' }}>
+        <p className="text-base sm:text-lg md:text-xl text-[#d3d2cf] mt-0 md:mt-0 max-w-7xl leading-relaxed px-2 sm:px-0" style={{ fontFamily: 'var(--font-adlam)' }}>
         Gilgamax is an American film production company founded in Los Angeles by Hayman Homer,
         Najat Abdullah, and Omar K. Akraye—three creators whose Mesopotamian heritage anchors a singular ambition: to bring the world's oldest epics into the language of contemporary cinema.
         From the hills of Hollywood to the mythic geographies of Ancient Mesopotamia and Media, Gilgamax develops works that marry epic scale with human intimacy, fusing modern cinematic technique with the enduring power of ancestral narrative.

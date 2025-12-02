@@ -84,7 +84,7 @@ export default function Contact() {
           <img
             src="/finalize logo no bggg.svg"
             alt="GILGAMAX Logo"
-            className="mx-auto translate-y-6 sm:translate-y-8 md:translate-y-10 h-24 sm:h-28 md:h-32 w-auto max-w-[200px] sm:max-w-[250px] md:max-w-none"
+            className="mx-auto translate-y-6 sm:translate-y-8 md:translate-y-10 h-24 sm:h-28 md:h-28 w-auto max-w-[200px] sm:max-w-[250px] md:max-w-none"
             style={{ objectFit: 'contain' }}
           />
         </div>

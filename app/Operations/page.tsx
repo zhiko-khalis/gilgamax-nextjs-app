@@ -119,7 +119,7 @@ export default function OperationsPage() {
               >
                 Film Production
               </h3>
-              <p className="text-xl text-gray-300 leading-relaxed">
+              <p className="text-base sm:text-lg md:text-xl text-gray-300 leading-relaxed">
               Overseeing every stage of filmmaking—from development and pre-production through post—bringing together world-class talent and cutting-edge technology.
               </p>
             </div>
@@ -149,7 +149,7 @@ export default function OperationsPage() {
               >
                 Screenplay Development
               </h3>
-              <p className="text-xl text-gray-300 leading-relaxed">
+              <p className="text-base sm:text-lg md:text-xl text-gray-300 leading-relaxed">
               Partnering with visionary writers to shape stories with depth, authenticity, and universal resonance.
               </p>
             </div>
@@ -177,7 +177,7 @@ export default function OperationsPage() {
               >
                 Cinematic Universe Building
               </h3>
-              <p className="text-xl text-gray-300 leading-relaxed">
+              <p className="text-base sm:text-lg md:text-xl text-gray-300 leading-relaxed">
               Designing expansive, interconnected worlds that can evolve across films, series, and transmedia formats.
               </p>
             </div>
@@ -204,7 +204,7 @@ export default function OperationsPage() {
               >
                 Creative Consulting & Story Development
               </h3>
-              <p className="text-xl text-gray-300 leading-relaxed">
+              <p className="text-base sm:text-lg md:text-xl text-gray-300 leading-relaxed">
               Advising studios, brands, and creators to refine narratives, strengthen story architecture, and build immersive cultural worlds.
               </p>
             </div>
@@ -232,7 +232,7 @@ export default function OperationsPage() {
               >
                 Casting & Talent Development
               </h3>
-              <p className="text-xl text-gray-300 leading-relaxed">
+              <p className="text-base sm:text-lg md:text-xl text-gray-300 leading-relaxed">
               Identifying and supporting the next generation of global storytellers and on-screen talent.
               </p>
             </div>
@@ -260,7 +260,7 @@ export default function OperationsPage() {
               >
                 Intellectual Property (IP) Creation
               </h3>
-              <p className="text-xl text-gray-300 leading-relaxed">
+              <p className="text-base sm:text-lg md:text-xl text-gray-300 leading-relaxed">
               Creating original properties built for long-term, cross-media expansion—stories that live beyond a single screen.
                  </p>
             </div>

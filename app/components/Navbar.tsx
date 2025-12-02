@@ -25,7 +25,7 @@ export default function Navbar() {
                   alt="Gilgamax Logo"
                   width={160}
                   height={160}
-                  className="object-contain h-18 w-18 sm:h-20 sm:w-20 md:h-24 md:w-24 lg:h-30 lg:w-30"
+                  className="object-contain h-18 w-18 sm:h-20 sm:w-20 md:h-24 md:w-24 lg:h-30 lg:w-30 lg:-translate-x-32"
                   priority
                 />
               </div>
@@ -61,7 +61,7 @@ export default function Navbar() {
                 href="/KawaTheBlacksmith"
                 className="navbar-link text-[#d3d2cf] px-3 py-2 text-sm font-medium"
               >
-                The Ember Crown
+                The Ember Crown (Working Title)
               </Link>
               <Link
                 href="/GilgamaxUniverce"
@@ -151,14 +151,14 @@ export default function Navbar() {
             className="navbar-link text-[#d3d2cf] block px-3 py-2 text-base font-medium"
             onClick={() => setIsMenuOpen(false)}
           >
-            Operations
+            Services
           </Link>
           <Link
             href="/KawaTheBlacksmith"
             className="navbar-link text-[#d3d2cf] block px-3 py-2 text-base font-medium"
             onClick={() => setIsMenuOpen(false)}
           >
-            Kawa The Blacksmith
+            The Ember Crown (Working Title)
           </Link>
           <Link
             href="/GilgamaxUniverce"

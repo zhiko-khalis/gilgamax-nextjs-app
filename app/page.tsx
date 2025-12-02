@@ -45,7 +45,7 @@ export default function Home() {
                   priority
                 />
               </div>
-              <h1 className="text-sm sm:text-base md:text-lg lg:text-xl px-4 mt-4 sm:mt-6 translate-y-70 sm:translate-y-40 md:translate-y-30 lg:translate-y-40 font-black text-[#d3d2cf] drop-shadow-lg hero-text-enter text-center max-w-[90vw]" style={{ fontFamily: 'var(--font-adlam)' }}>
+              <h1 className="text-sm sm:text-base md:text-lg lg:text-xl px-4 mt-4 sm:mt-6 translate-y-56 sm:translate-y-40 md:translate-y-30 lg:translate-y-40 font-black text-[#d3d2cf] drop-shadow-lg hero-text-enter text-center max-w-[90vw]" style={{ fontFamily: 'var(--font-adlam)' }}>
                   Echos of the First Civilization
                 </h1>
             </div>

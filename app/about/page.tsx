@@ -34,14 +34,14 @@ export default function AboutPage() {
               </div>
           <div className="flex flex-col gap-16 items-center w-full">
             {/* Text Content */}
-            <div className=" text-center">
+            <div className="">
               <h2 
-                className="text-2xl md:text-2xl font-black mt-10 text-[#d3d2cf]"
+                className="text-2xl md:text-2xl text-center font-black mt-10 text-[#d3d2cf]"
                 style={{ fontFamily: 'var(--font-adlam)' }}
               >
                 OUR VISION
               </h2>
-              <p className="text-xl text-gray-300 w-full max-w-5xl leading-relaxed mt-3 text-center">
+              <p className="text-base sm:text-lg md:text-xl text-gray-300 w-full max-w-5xl leading-relaxed mt-3 ">
               Mesopotamia is widely regarded as the cradle of civilization—home to some of humanity's earliest and most enduring epics. Its stories have shaped myth, literature, and culture for millennia, and their influence is still felt today. Yet despite this legacy, Mesopotamian mythology remains largely underexplored in Western mainstream media.
 Our vision is to bring these tales to life with cinematic ambition and cultural respect—reintroducing the world to their true origins and honoring the civilization that first imagined them.
               </p>
