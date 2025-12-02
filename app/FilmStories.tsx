@@ -129,7 +129,7 @@ const FilmStories: React.FC = () => {
         <div className="w-full h-full bg-[radial-gradient(circle_at_50%_50%,rgba(59,130,246,0.1),transparent_50%)]" />
       </div>
       <div className="mb-8 sm:mb-10 md:mb-12 flex justify-center items-center px-4">
-          <h2 className="text-xl sm:text-2xl md:text-3xl lg:text-4xl font-black text-[#d3d2cf] tracking-wide text-center" style={{ fontFamily: 'var(--font-adlam)' }}>
+          <h2 className="text-[14px] sm:text-2xl md:text-3xl lg:text-4xl font-black text-[#d3d2cf] tracking-wide text-center" style={{ fontFamily: 'var(--font-adlam)' }}>
             STORIES SET IN GILGAMAX CINEMATIC UNIVERSE
           </h2>
         </div>

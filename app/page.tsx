@@ -35,17 +35,17 @@ export default function Home() {
             
             {/* Overlayed Main Logo */}
             <div className="w-full h-full flex flex-col justify-center items-center z-10 px-4">
-              <div className="hero-text-enter relative w-full max-w-[90vw] sm:max-w-[500px] md:max-w-[600px] lg:max-w-[700px]">
+              <div className="hero-text-enter relative w-full max-w-[90vw] sm:max-w-[400px] md:max-w-[400px] lg:max-w-[500px]">
                 <Image
                   src="/finalize logo no bggg.svg"
                   alt="Gilgamax Logo"
-                  width={400}
-                  height={400}
+                  width={300}
+                  height={300}
                   className="object-contain relative z-10 w-full h-auto"
                   priority
                 />
               </div>
-              <h1 className="text-sm sm:text-base md:text-lg lg:text-xl px-4 mt-4 sm:mt-6 font-black text-[#d3d2cf] drop-shadow-lg hero-text-enter text-center max-w-[90vw]" style={{ fontFamily: 'var(--font-adlam)' }}>
+              <h1 className="text-sm sm:text-base md:text-lg lg:text-xl px-4 mt-4 sm:mt-6 translate-y-70 sm:translate-y-40 md:translate-y-30 lg:translate-y-40 font-black text-[#d3d2cf] drop-shadow-lg hero-text-enter text-center max-w-[90vw]" style={{ fontFamily: 'var(--font-adlam)' }}>
                   Echos of the First Civilization
                 </h1>
             </div>

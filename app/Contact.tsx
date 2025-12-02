@@ -91,7 +91,7 @@ export default function Contact() {
 
         {/* Newsletter Subscription */}
         <div className="space-y-6">
-          <p className="text-xl md:text-xl text-[#d3d2cf]  tracking-wide" style={{ fontFamily: 'var(--font-adlam)' }}>
+          <p className="text-[10px] md:text-xl text-[#d3d2cf]  tracking-wide" style={{ fontFamily: 'var(--font-adlam)' }}>
           Enter our world: filmmaker letters, first-look trailers, creative conversations, merchandise, and other exclusive releases.
           </p>
           
@@ -116,7 +116,7 @@ export default function Contact() {
 
         {/* Social Media Links */}
         <div className="space-y-4">
-          <div className="flex flex-col sm:flex-row gap-6 justify-center items-center text-lg md:text-xl">
+          <div className="flex flex-col sm:flex-row gap-6 justify-center items-center text-sm md:text-xl">
             <a href="#" className="text-[#d3d2cf] hover:text-gray-300 transition-colors  tracking-wide" style={{ fontFamily: 'var(--font-adlam)' }}>
             Youtube
             </a>
